@@ -41,7 +41,7 @@ CREATE TABLE `users` (
 
 LOCK TABLES `users` WRITE;
 /*!40000 ALTER TABLE `users` DISABLE KEYS */;
-INSERT INTO `users` VALUES (1,'John-David','Buchanan','JD','Johndavid.buchanan@triosstudent.com','tr10$$$$',NULL,NULL),(2,'jd','b',NULL,'ladhgladkhjfg@dsljklsdf.com','12345',NULL,NULL),(3,'first_name','second_name',NULL,'email','password',NULL,NULL),(4,'John-David','Buchanan',NULL,'mastasnackcracka@yahoo.ca','tr10$$$$',NULL,NULL),(5,'John-David','Buchanan',NULL,'mastasnackcracka@yahoo.com','tr10$$$$',NULL,NULL),(6,'John-David','Buchanan',NULL,'mastasnackcracka@yahoo.com','tr10$$$$',NULL,NULL),(7,'JD','Buchanana',NULL,'jdbuchanan12@gmail.ca','tr10$$$$',NULL,NULL);
+INSERT INTO `users` VALUES (1,'Jimmy','Boss','JBoss','Jimmy@gmail.com','abc123',NULL,NULL),(2,'Chad','B',NULL,'ChadB@gmail.com','12345',NULL,NULL),(3,'Cam','Weber','WebCam77','cammer77@hotmail.com','digfoigdv',NULL,NULL),(4,'Fred','FreeFred12',NULL,'freefreddy@yahoo.ca','catP1$$',NULL,NULL),(5,'JD','Buch',NULL,'mastacracka@yahoo.com','gr@$$m@n',NULL,NULL),(6,'Clive','Bronson','DeathWish69','bronson619@hotmail.com','c00kee',NULL,NULL),(7,'Mary','Banna','bananaMarony','marban@gmail.ca','yt448D@',NULL,NULL);
 /*!40000 ALTER TABLE `users` ENABLE KEYS */;
 UNLOCK TABLES;
 /*!40103 SET TIME_ZONE=@OLD_TIME_ZONE */;
